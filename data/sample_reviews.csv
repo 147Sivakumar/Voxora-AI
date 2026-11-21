@@ -1,0 +1,9 @@
+review_id,date,platform,rating,review_text
+R001,2026-11-15,Google,5,"Great food and friendly staff. I loved the experience!"
+R002,2026-11-15,Swiggy,1,"Food arrived cold and delivery was very late."
+R003,2026-11-16,Zomato,2,"சாப்பாடு நல்லா இல்லை, ரொம்ப லேட்."
+R004,2026-11-16,Google,4,"Food super ah irundhuchu, but packing konjam weak."
+R005,2026-11-17,Google,1,"बहुत खराब सेवा, मेरा ऑर्डर बहुत देर से आया।"
+R006,2026-11-17,Swiggy,3,"Price is okay, but the app keeps crashing."
+R007,2026-11-18,Zomato,5,"Excellent packaging and tasty food."
+R008,2026-11-18,Google,2,"Staff were rude and nobody helped me."
