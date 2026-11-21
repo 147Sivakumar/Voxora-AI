@@ -204,7 +204,7 @@ def main():
             <div style="
                 color: #64748B;
                 font-size: 13px;
-            ">st.markdown(..., unsafe_allow_html=True)</div>
+            ">Every voice. Clearer insights.</div>
         </div>
     </div>
     """,
